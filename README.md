@@ -1,1 +1,1 @@
-# Competitive_Programming
+# Competitive_Programming (Pengaturcaraan Kommpetitif)
